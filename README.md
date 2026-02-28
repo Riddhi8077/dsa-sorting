@@ -1,7 +1,7 @@
-# Data Structures & Algorithms – Structured Practice Repository
+# Data Structures & Algorithms - Structured Practice Repository
 
 This repository documents my disciplined practice of Data Structures and Algorithms.  
-It is not a random collection of solutions — it reflects structured learning, pattern recognition, and continuous improvement.
+It is not a random collection of solutions - it reflects structured learning, pattern recognition, and continuous improvement.
 
 The focus is on understanding problem-solving techniques deeply and implementing them cleanly in C++.
 
