@@ -7,7 +7,7 @@ The focus is on understanding problem-solving techniques deeply and implementing
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 - Strengthen core DSA fundamentals
 - Master common interview patterns
@@ -17,7 +17,7 @@ The focus is on understanding problem-solving techniques deeply and implementing
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 ### 1. Sorting Algorithms (From Scratch)
 
@@ -108,7 +108,7 @@ Concepts:
 
 ---
 
-## 🧩 Learning Approach
+## Learning Approach
 
 - Solve problems on paper before coding (dry-run first approach)
 - Focus on patterns rather than memorizing solutions
@@ -118,7 +118,7 @@ Concepts:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Language: C++
 - STL (Standard Template Library)
@@ -126,7 +126,7 @@ Concepts:
 
 ---
 
-## 📈 What This Repository Represents
+## What This Repository Represents
 
 This repository represents:
 
@@ -138,7 +138,7 @@ The goal is not to collect solved problems, but to develop strong foundational t
 
 ---
 
-## 🚀 Ongoing Progress
+## Ongoing Progress
 
 Upcoming areas of focus:
 
