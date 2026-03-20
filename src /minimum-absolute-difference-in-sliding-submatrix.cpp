@@ -14,7 +14,6 @@ public:
 
                 set<int> st;
 
-                // collect unique elements
                 for (int x = i; x < i + k; x++) {
                     for (int y = j; y < j + k; y++) {
                         st.insert(grid[x][y]);
